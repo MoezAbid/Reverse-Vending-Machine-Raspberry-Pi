@@ -14,7 +14,7 @@ The types of the objects which the deep learning model has been trained on :
 * Plastic bottles, ranging from 25cl to 2 leters.
 * Aluminum/Metal cans.
 
-========================
+####
 
 ## Examples
 ![Data Examples Bottles](https://i.imgur.com/YCAkEfw.png)
