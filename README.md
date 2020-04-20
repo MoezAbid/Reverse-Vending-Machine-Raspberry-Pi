@@ -11,7 +11,7 @@ The "Vegeta Reverse Vending Machine" does not rely on expensive sensors to detec
 ####
 The types of the objects which the deep learning model has been trained on :
 
-* Plastic bottles, ranging from 25cl to 2 leters.
+* Plastic bottles, ranging from 25cl to 2 liters.
 * Aluminum/Metal cans.
 
 ####
