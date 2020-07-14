@@ -26,5 +26,5 @@ Here's how we setup the card and the components :
 ![Pi Connections](https://i.imgur.com/8yZzEPn.jpg)
 
 For the Demo Videos :
-[Reverse Vending Machine Web Application](https://www.youtube.com/watch?v=i-AVw1gl6Xw&feature=youtu.be)
-[Reverse Vending Facial Recognition](https://youtu.be/3dnJtUoCu2I)
+* [Reverse Vending Machine Web Application](https://www.youtube.com/watch?v=i-AVw1gl6Xw&feature=youtu.be)
+* [Reverse Vending Facial Recognition](https://youtu.be/3dnJtUoCu2I)
