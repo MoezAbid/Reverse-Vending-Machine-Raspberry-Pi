@@ -1,6 +1,6 @@
 # Reverse Vending Machine (Vegeta)
 
-This repository contains the scripts and code for the Reverse Vending Machine project. This is a Data Science project where we used a RaspberryPI 3, and a Deep Learning model to create a reverse vending machine targeted for the tunisian market, speclalizing in the classification of plastic bottles and aluminum/metal cans. The users have the chance to receive points/vouchers for the type of object they insert into the vending machine.
+This repository contains the scripts and code for the Reverse Vending Machine project. This is a Data Science project where we used a RaspberryPI 3, and a Deep Learning model to create a reverse vending machine targeted for the tunisian market, specializing in the classification of plastic bottles and aluminum/metal cans. The users have the chance to receive points/vouchers for the type of object they insert into the vending machine.
 
 ####
 For more information on how a reverse vending machine works : https://www.youtube.com/watch?v=I2C7GjP1fGs
