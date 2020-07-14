@@ -20,7 +20,11 @@ The types of the objects which the deep learning model has been trained on :
 ![Data Examples Bottles](https://i.imgur.com/YCAkEfw.png)
 
 ## RasperryPI Setup :
-A Raspberry PI 3 Model B running on Rasipan OS has been used for this project. The main code that has been used for taking the picture can be found in the __Vending_Machine.py__ file.
+A Raspberry PI 3 Model B running on Rasipan OS has been used for this project. The main code that has been used for taking the picture can be found in the __Vending_Machine_Python_Script.py__ file.
 
 Here's how we setup the card and the components :
 ![Pi Connections](https://i.imgur.com/8yZzEPn.jpg)
+
+For the Demo Videos :
+[Reverse Vending Machine Web Application](https://www.youtube.com/watch?v=i-AVw1gl6Xw&feature=youtu.be)
+[Reverse Vending Facial Recognition](https://youtu.be/3dnJtUoCu2I)
